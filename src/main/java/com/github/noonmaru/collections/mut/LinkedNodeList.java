@@ -14,7 +14,12 @@
  *  limitations under the License.
  */
 
-package com.github.noonmaru.collections;
+package com.github.noonmaru.collections.mut;
+
+import com.github.noonmaru.collections.Node;
+import com.github.noonmaru.collections.NodeCollection;
+import com.github.noonmaru.collections.NodeDeque;
+import com.github.noonmaru.collections.NodeList;
 
 import java.util.*;
 import java.util.function.Consumer;

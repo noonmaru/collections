@@ -1,5 +1,6 @@
 package com.github.noonmaru.collections;
 
+import com.github.noonmaru.collections.mut.CleanableWeakHashMap;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

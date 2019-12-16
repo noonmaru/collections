@@ -1,5 +1,6 @@
 package com.github.noonmaru.collections;
 
+import com.github.noonmaru.collections.mut.LinkedNodeList;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

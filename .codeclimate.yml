@@ -1,4 +1,2 @@
 exclude_patterns:
-  - "collections/AbstractMap.java"
-  - "collections/LinkedNodeList.java"
-  - "collections/CleanableWeakHashMap.java"
+  - "**/mut/*.java"

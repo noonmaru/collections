@@ -14,7 +14,9 @@
  *  limitations under the License.
  */
 
-package com.github.noonmaru.collections;
+package com.github.noonmaru.collections.mut;
+
+import com.github.noonmaru.collections.Node;
 
 import java.lang.reflect.Array;
 import java.util.Collection;

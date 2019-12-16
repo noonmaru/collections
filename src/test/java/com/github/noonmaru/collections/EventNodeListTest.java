@@ -1,5 +1,6 @@
 package com.github.noonmaru.collections;
 
+import com.github.noonmaru.collections.mut.EventNodeList;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
