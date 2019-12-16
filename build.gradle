@@ -1,8 +1,16 @@
 plugins {
     id 'java'
     id 'maven-publish'
+    id 'jacoco'
+    id 'com.github.kt3k.coveralls' version '2.6.3'
 }
 
+jacocoTestReport {
+    reports {
+        xml.enabled = true // coveralls plugin depends on xml format report
+        html.enabled = true
+    }
+}
 group 'com.github.noonmaru.collections'
 version '1.0'
 
