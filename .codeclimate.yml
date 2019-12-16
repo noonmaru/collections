@@ -1,0 +1,6 @@
+version: "2"
+
+exclude_patterns:
+  - "AbstractMap.java"
+  - "LinkedNodeList.java"
+  - "CleanableWeakHashMap.java"
