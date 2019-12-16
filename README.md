@@ -2,7 +2,6 @@
 [![Build Status](https://travis-ci.org/noonmaru/collections.svg?branch=master)](https://travis-ci.org/noonmaru/collections)
 [![Coverage Status](https://coveralls.io/repos/github/noonmaru/collections/badge.svg?branch=master)](https://coveralls.io/github/noonmaru/collections?branch=master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/62488473d09f07d0935a/maintainability)](https://codeclimate.com/github/noonmaru/collections/maintainability)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/noonmaru/collections)
 ![GitHub](https://img.shields.io/github/license/noonmaru/collections)
 [![](https://jitpack.io/v/noonmaru/collections.svg)](https://jitpack.io/#noonmaru/collections)
 ![JitPack - Downloads](https://img.shields.io/jitpack/dm/github/noonmaru/collections)
