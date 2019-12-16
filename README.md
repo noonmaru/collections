@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/62488473d09f07d0935a/maintainability)](https://codeclimate.com/github/noonmaru/collections/maintainability)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/noonmaru/collections)
 ![GitHub](https://img.shields.io/github/license/noonmaru/collections)
-[![Jitpack](https://jitpack.io/v/noonmaru/collections.svg)](https://jitpack.io/#noonmaru/collections)
+[![](https://jitpack.io/v/noonmaru/collections.svg)](https://jitpack.io/#noonmaru/collections)
 ![JitPack - Downloads](https://img.shields.io/jitpack/dm/github/noonmaru/collections)
 
 ### 1.0
