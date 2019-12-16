@@ -1,6 +1,4 @@
-version: "2"
-
 exclude_patterns:
-  - "AbstractMap.java"
-  - "LinkedNodeList.java"
-  - "CleanableWeakHashMap.java"
+  - "collections/AbstractMap.java"
+  - "collections/LinkedNodeList.java"
+  - "collections/CleanableWeakHashMap.java"
