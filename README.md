@@ -23,6 +23,6 @@
 >   ```
 >   ```groovy
 >   dependencies {
->       implementation 'com.github.noonmaru:collections:Tag'
+>       implementation 'com.github.noonmaru:collections:1.0'
 >  	}
 >   ```
