@@ -5,6 +5,7 @@
 [![](https://jitpack.io/v/noonmaru/collections.svg)](https://jitpack.io/#noonmaru/collections)
 ![JitPack - Downloads](https://img.shields.io/jitpack/dm/github/noonmaru/collections)
 ![GitHub](https://img.shields.io/github/license/noonmaru/collections)
+![Twitch Status](https://img.shields.io/twitch/status/hptgrm)
 
 ### 1.0
 > * 기능

@@ -2,7 +2,7 @@ plugins {
     id 'java'
     id 'maven-publish'
     id 'jacoco'
-    id 'com.github.kt3k.coveralls' version '2.6.3'
+    id 'com.github.kt3k.coveralls' version '2.9.0'
 }
 
 jacocoTestReport {
@@ -28,18 +28,18 @@ dependencies {
 }
 
 task sourcesJar(type: Jar) {
-    classifier = 'sources'
+    archiveClassifier = 'sources'
     from sourceSets.main.allJava
 }
 
 task javadocJar(type: Jar) {
-    classifier = 'javadoc'
+    archiveClassifier = 'javadoc'
     from javadoc
 }
 
 publishing {
     publications {
-        MoxPublication(MavenPublication) {
+        LibPublication(MavenPublication) {
             artifactId = 'collections'
             from components.java
             artifact sourcesJar
